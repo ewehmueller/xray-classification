@@ -22,6 +22,14 @@ A concern in the years 2020 and 2021 has been "flattening the curve" for as to n
 I explore this thoroughly in the image-classification.ipynb file contained within this repository. 
 Image files are already sorted into corresponding folders within the "chest_xray_images" directory with roughly a 70/15/15 distribution between train/test/val folders.
 
+## Model Results
+<img src="./images/img1.png" width=90%>
+
+
+## Output of Classification
+<img src="./images/img2.png" width=90%>
+
+
 ## Repository Structure
 
 ```
